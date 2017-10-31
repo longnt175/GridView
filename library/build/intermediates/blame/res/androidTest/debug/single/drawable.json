@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/drawable/vpi__tab_indicator.xml"
     }
 ]

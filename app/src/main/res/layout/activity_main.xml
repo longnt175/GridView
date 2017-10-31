@@ -2,18 +2,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:weightSum="1">
+    android:background="@color/color1">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="250dp" />
 
-    <android.support.v4.view.ViewPager
+    <viewpager.gridview.android.viewpagerwithindicator.MyViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:background="@color/color"
-        android:layout_weight="1" />
+        android:layout_height="wrap_content"
+        android:background="@color/color" />
 
     <com.viewpagerindicator.CirclePageIndicator
         android:id="@+id/pagerIndicator"

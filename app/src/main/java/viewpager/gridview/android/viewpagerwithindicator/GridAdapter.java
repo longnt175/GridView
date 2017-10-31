@@ -7,39 +7,31 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class GridAdapter extends BaseAdapter{
+import java.util.List;
+
+public class GridAdapter extends BaseAdapter {
 
 	Context context;
-	
-	int images[] = { R.drawable.ic_launcher, R.drawable.img_linux,
-			R.drawable.img_windows, R.drawable.ic_launcher};
 	
 	public class ViewHolder {
 		public ImageView imageView;
 		public TextView textTitle;
 	}
-	
-	private GridItem[] items;
+
+	private List<Event> items;
 	private LayoutInflater mInflater;
-	
-	public GridAdapter(Context context, GridItem[] locations) {
+
+	public GridAdapter(Context context, List<Event> items) {
 		mInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 		this.context = context;
-		items = locations;
-	}
-	
-	public GridItem[] getItems() {
-		return items;
-	}
-
-	public void setItems(GridItem[] items) {
 		this.items = items;
 	}
+
 
 	@Override
 	public int getCount() {
 		if(items != null) {
-			return items.length;
+			return items.size();
 		}
 		return 0;
 	}
@@ -47,7 +39,7 @@ public class GridAdapter extends BaseAdapter{
 	@Override
 	public Object getItem(int pos) {
 		if(items != null && pos >= 0 && pos < getCount()) {
-			return items[pos];
+			return items.get(pos);
 		}
 		return null;
 	}
@@ -55,7 +47,7 @@ public class GridAdapter extends BaseAdapter{
 	@Override
 	public long getItemId(int pos) {
 		if(items != null && pos >= 0 && pos < getCount()) {
-			return items[pos].id;
+			return pos;
 		}
 		return 0;
 	}
@@ -77,15 +69,15 @@ public class GridAdapter extends BaseAdapter{
 		} else {
 			viewHolder = (ViewHolder) view.getTag();
 		}
-		
-		GridItem gridItem = items[pos];
-		setCatImage(pos, viewHolder, gridItem.title);
+
+
+		setCatImage(viewHolder, items.get(pos).getIncidentName());
 		
 		return view;
 	}
 
-	private void setCatImage(int pos, ViewHolder viewHolder, String title) {
-		viewHolder.imageView.setImageResource(images[pos]);
+	private void setCatImage(ViewHolder viewHolder, String title) {
+		viewHolder.imageView.setImageResource(R.drawable.fire);
 		viewHolder.textTitle.setText(title);
 	}
 

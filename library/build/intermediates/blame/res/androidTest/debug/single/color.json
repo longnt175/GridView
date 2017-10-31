@@ -1,10 +1,18 @@
 [
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/color/vpi__dark_theme.xml"
     },
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/color/vpi__light_theme.xml",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
     }
 ]

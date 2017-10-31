@@ -1,26 +1,50 @@
 [
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/vpi__tab_selected_pressed_holo.9.png"
     },
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/vpi__tab_selected_focused_holo.9.png"
     },
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
     },
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
     },
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/vpi__tab_selected_holo.9.png"
     },
     {
-        "merged": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
-        "source": "E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/E:\\Android Studio Projects\\ViewPagerWithIndicator\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Users/risklogicdev/AndroidStudioProjects/GridView/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png"
     }
 ]
